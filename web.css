@@ -1,0 +1,78 @@
+body {
+    background-color: #6b4444;
+    background-image: url('sindu.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+
+
+}
+
+
+
+.z2 {
+    background-image: url('sindu.jpg');
+}
+
+.z1 {
+    width: 208px;
+    height: 52px;
+    flex-shrink: 0;
+    color: #FB8FA7;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.zero {
+    width: 251.535px;
+    height: 52px;
+    flex-shrink: 0;
+    color: #FB8FA7;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    padding-left: 50cm;
+}
+
+.one {
+    width: 685px;
+    height: 197px;
+    flex-shrink: 0;
+    color: #F9CABA;
+    font-family: Inter;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 28cm;
+    padding-top: 10cm;
+}
+
+.two {
+    padding-left: 1cm;
+    padding-bottom: 50cm;
+    font-size: 25px;
+    color: #F9CABA;
+    width: 612px;
+    height: 197px;
+    flex-shrink: 0;
+}
+
+.join {
+    border-radius: 15px;
+    background: #D83E60;
+    font-size: 50px;
+    padding-left: 2cm;
+    padding-top: 1cm;
+    width: 284px;
+    height: 80px;
+    flex-shrink: 0;
+    margin-top: 4cm;
+
+}
